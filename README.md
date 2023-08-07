@@ -4,23 +4,18 @@
 
 <p>
 
-<img src="./assets/pacman.svg" width="70">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23525252&size=12&center=true&lines=Computer+Science+Student;Web+developper;Always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23525252&size=12&center=true&lines=Computer+Science+Student;Web+developper;Always+learning+something+new)](https://git.io/typing-svg)
 </p>
 
-<div align="center"><img src="assets/about.svg" width="200px"></div>
-
 - 🔭 I’m currently studying computer science (5th semester)
-- 💪 Very motivated to keep learning and improving my skills especially on the field of web devopment
-<span><img src="assets/img.jpeg" align="right" width="100"></span>
+- 💪 Very motivated to keep learning and improving my skills especially on the field of web development
 - 🌱 I’m currently learning some Javascript, php and his various frameworks
 - 👯 I’m looking to collaborate on JavaScript projects
 - 💬 Ask me about Html5, Css3, Responsive design, JAVASCRIPT, C, C++, React, VueJs, Express, Next, Symfony, Laravel, JAVA Spring, .Net 
 
 ---
 
-<div align="center"><img src="assets/langs.svg" width="300px"></div>
-<div align="center"> 
-	<img src="assets/mignon.png" width="100"> <br>
+<div align="center">
     <img alt="Symfony" src="https://img.shields.io/badge/Symfony%20-0D1117.svg?style=flat&logo=symfony&logoColor=F7DF1E">
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-0D1117.svg?style=flat&logo=laravel&logoColor=F7DF1E">
     <img alt="Express" src="https://img.shields.io/badge/Express.js-0D1117.svg?style=flat&logo=express&logoColor=F7DF1E">
@@ -60,7 +55,6 @@
 
 ---
 
-<div align="center"><img src="assets/anal.svg" width="300px"></div>
 <div align="center">
     <a href="#"><img alt="TheKraken's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheKraken9&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F7DF1E&icon_color=F7DF1E" height="200"/></a>
  </div>
