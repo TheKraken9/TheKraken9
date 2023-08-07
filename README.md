@@ -1,26 +1,36 @@
 <div align="center">
-	<h1>Hey, I'm TheKraken 🇲🇬 <img alt="Night Coding" src="assets/Hand Wave.gif" width='40'/> </h1>
+	<h1>Hey, I'm TheKraken 🇲🇬</h1>
 </div>
 
 <p>
-
 <img src="./assets/pacman.svg" width="70">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23525252&size=12&center=true&lines=Computer+Science+Student;Web+developper;Always+learning+something+new)](https://git.io/typing-svg)
 </p>
 
 <div align="center"><img src="assets/about.svg" width="200px"></div>
 
-- 🔭 I’m currently studying computer science (3th semester)
+- 🔭 I’m currently studying computer science (5th semester)
 - 💪 Very motivated to keep learning and improving my skills especially on the field of web devopment
 <span><img src="assets/img.jpeg" align="right" width="100"></span>
-- 🌱 I’m currently learning Javascript, php and his various frameworks
+- 🌱 I’m currently learning some Javascript, php and his various frameworks
 - 👯 I’m looking to collaborate on JavaScript projects
-- 💬 Ask me about Html5, Css3, Responsive design, JAVASCRIPT, C, C++, PHP, JAVA
+- 💬 Ask me about Html5, Css3, Responsive design, JAVASCRIPT, C, C++, React, VueJs, Express, Next, Symfony, Laravel, JAVA Spring, .Net 
 
 ---
 
 <div align="center"><img src="assets/langs.svg" width="300px"></div>
 <div align="center"> 
 	<img src="assets/mignon.png" width="100"> <br>
+    <img alt="Symfony" src="https://img.shields.io/badge/Symfony%20-0D1117.svg?style=flat&logo=symfony&logoColor=F7DF1E">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-0D1117.svg?style=flat&logo=laravel&logoColor=F7DF1E">
+    <img alt="Express" src="https://img.shields.io/badge/Express.js-0D1117.svg?style=flat&logo=express&logoColor=F7DF1E">
+    <img alt="Next" src="https://img.shields.io/badge/Next.js-0D1117.svg?style=flat&logo=next.js&logoColor=F7DF1E">
+    <img alt="React" src="https://img.shields.io/badge/React-0D1117.svg?style=flat&logo=react&logoColor=F7DF1E">
+    <img alt="Vue" src="https://img.shields.io/badge/Vue.js-0D1117.svg?style=flat&logo=vue.js&logoColor=F7DF1E">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-0D1117.svg?style=flat&logo=angular&logoColor=F7DF1E">
+    <img alt="Node" src="https://img.shields.io/badge/Node.js-0D1117.svg?style=flat&logo=node.js&logoColor=F7DF1E">
+    <img alt="Java" src="https://img.shields.io/badge/Java-0D1117.svg?style=flat&logo=java&logoColor=F7DF1E">
+    <img alt="Spring" src="https://img.shields.io/badge/Spring-0D1117.svg?style=flat&logo=spring&logoColor=F7DF1E">
+    <img alt=".Net" src="https://img.shields.io/badge/.NET-0D1117.svg?style=flat&logo=.net&logoColor=F7DF1E">
 	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-0D1117.svg?style=flat&logo=javascript&logoColor=F7DF1E"> 
     <img src="https://img.shields.io/badge/jQuery-0D1117?style=flat&logo=jquery&logoColor=F7DF1E" /> 
     <img src="https://img.shields.io/badge/Vue.js-0D1117?style=flat&logo=vue.js&logoColor=F7DF1E" />  
@@ -33,8 +43,7 @@
     <img alt="C" src="https://img.shields.io/badge/C%20-0D1117.svg?style=flat&logo=c&logoColor=F7DF1E"> 
 	<img alt="Git" src="https://img.shields.io/badge/Git%20-0D1117.svg?style=flat&logo=git&logoColor=F7DF1E"> 
 	<img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-0D1117.svg?style=flat&logo=github&logoColor=F7DF1E"> 
-<!-- 	<img  alt="Gitlab"  src="https://img.shields.io/badge/GitLab-0D1117.svg?style=flat&logo=gitlab&logoColor=F7DF1E"/> 
- -->
+    <img  alt="Gitlab"  src="https://img.shields.io/badge/GitLab-0D1117.svg?style=flat&logo=gitlab&logoColor=F7DF1E"/>
  	<img  alt="Bitbucket"  src="https://img.shields.io/badge/Bitbucket-0D1117.svg?style=flat&logo=bitbucket&logoColor=F7DF1E"/>
 	<img src="https://img.shields.io/badge/Bash%20-0D1117.svg?style=flat&logo=gnu-bash&logoColor=F7DF1E">  
 	<img alt="Linux" src="https://img.shields.io/badge/Linux-0D1117?style=flat&logo=linux&logoColor=F7DF1E"> 
